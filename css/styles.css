@@ -4,15 +4,15 @@ body {
 }
 
 hr {
+  border-color: #30e3ca;
   border-style: none;
   border-top-style: dotted;
-  border-color: #30e3ca;
   border-width: 7px;
   width: 10%
 }
 
 img {
-  height: 200px
+  height: 200px;
 }
 
 h1,
